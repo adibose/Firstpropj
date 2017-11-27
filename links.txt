@@ -1,0 +1,12 @@
+jsfiddle.net
+projecteuler.net
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://lodash.com/
+https://responsivedesign.is/patterns/mostly-fluid/
+https://thecreativeguy.github.io/
+https://edwisor.com/trainingLive.html?id=5a040ffe42b83cd8156656a8-live video session
+https://responsivedesign.is/patterns/
+less than 480px, 480px to 768px, 768 to 992px,992 to 1200px
+https://www.google.co.in/search?q=ttps%3A%2F%2Fresponsivedesign.is%2Fpatterns%2Fmostly-fluid%2F&rlz=1C1CHBF_enIN716IN716&oq=ttps%3A%2F%2Fresponsivedesign.is%2Fpatterns%2Fmostly-fluid%2F&aqs=chrome..69i57j69i58.1127j0j7&sourceid=chrome&ie=UTF-8
+https://username.github.io/ ---->Github pages(portfolio) and for github respository https://github.com/theCreativeGuy/theCreativeGuy.github.io
+http://fontawesome.io/
